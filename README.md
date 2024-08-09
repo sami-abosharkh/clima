@@ -1,4 +1,4 @@
-# clima
+# CLIMA APP
 
 Clima is a user-friendly weather app that provides real-time weather updates, forecasts, alerts, and interactive maps, helping you stay informed about weather conditions wherever you are.
 
